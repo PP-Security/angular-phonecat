@@ -1,7 +1,7 @@
 # AngularJS Phone Catalog Tutorial Application
 # This is my Trial Comit
 
-## Overview
+## Overview ##
 
 This application takes the developer through the process of building a web-application using
 AngularJS. The application is loosely based on the **Google Phone Gallery**, which no longer exists.
